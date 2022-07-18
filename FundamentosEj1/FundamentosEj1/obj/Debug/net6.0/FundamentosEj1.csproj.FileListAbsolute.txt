@@ -1,0 +1,15 @@
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\bin\Debug\net6.0\FundamentosEj1.exe
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\bin\Debug\net6.0\FundamentosEj1.deps.json
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\bin\Debug\net6.0\FundamentosEj1.runtimeconfig.json
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\bin\Debug\net6.0\FundamentosEj1.dll
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\bin\Debug\net6.0\FundamentosEj1.pdb
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.csproj.AssemblyReference.cache
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.AssemblyInfoInputs.cache
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.AssemblyInfo.cs
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.csproj.CoreCompileInputs.cache
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.dll
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\refint\FundamentosEj1.dll
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.pdb
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\FundamentosEj1.genruntimeconfig.cache
+C:\Users\RamsésCastro\OneDrive - bi4us\Documentos\Códigos\Cgato\FundamentosEj1\FundamentosEj1\obj\Debug\net6.0\ref\FundamentosEj1.dll
