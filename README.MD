@@ -34,12 +34,12 @@ Repositorio de ejercicios de C# realizados con .net 6
 
 
 - Ejercicio 5: Método de extensión en un List
-    Generar un objeto de nombre “Cerveza”, con las siguientes propiedades 
-    - Nombre: string
-    - Tipo: int (1 clara, 2 obscura)
-    - GradosAlcohol: double
 
-    Llenar una lista dummy del objeto Cerveza (List<Cerveza>) con al menos 10 registros
-    Generar un método de extensión a la Lista de Cervezas el cual nos permita filtrar por dos valores Tipo y Grados de alcohol.
-	Resultado esperado será solo retornar el listado con las coincidencias
-	Los grados de alcohol tendrán la validación que será el máximo el indicado en el filtro, es decir que nos traerá todas las cervezas que tengan un grado igual o menor al ingresado
+    1) Generar un objeto de nombre “Cerveza”, con las siguientes propiedades 
+        - Nombre: string
+        - Tipo: int (1 clara, 2 obscura)
+        - GradosAlcohol: double
+    2) Llenar una lista dummy del objeto Cerveza (List<Cerveza>) con al menos 10 registros
+    3) Generar un método de extensión a la Lista de Cervezas el cual nos permita filtrar por dos valores Tipo y Grados de alcohol.
+	4) Resultado esperado será solo retornar el listado con las coincidencias
+	5) Los grados de alcohol tendrán la validación que será el máximo el indicado en el filtro, es decir que nos traerá todas las cervezas que tengan un grado igual o menor al ingresado
