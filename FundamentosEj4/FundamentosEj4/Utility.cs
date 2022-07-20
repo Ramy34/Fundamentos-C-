@@ -18,8 +18,7 @@ namespace FundamentosEj4
         /// <param name="numeroIngresado"></param>
         /// <returns>Un bool</returns>
         public static bool ValidacionNumero(this string numeroIngresado) {
-            Match resultMatch = Regex.Match(numeroIngresado, @"^\d+$");
-            return resultMatch.Success;
+            return Regex.Match(numeroIngresado, @"^\d+$").Success;
         }
         /// <summary>
         /// Convierte una cadena en un entero
@@ -78,6 +77,5 @@ namespace FundamentosEj4
             Console.Write("Ingresa una palabra o frase: ");
             return Console.ReadLine();
         }
-
     }
 }

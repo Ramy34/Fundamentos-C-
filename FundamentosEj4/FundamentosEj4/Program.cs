@@ -3,6 +3,7 @@
 string numeroIngresado = "";
 numeroIngresado = numeroIngresado.MensajePedirNumero();
 Console.WriteLine($"¿El valor {numeroIngresado.ConvertirStringNumero()} es par? {numeroIngresado.ConvertirStringNumero().EsPar()}");
+
 string frase = "";
 frase = frase.MensajePedirFrase();
 Console.WriteLine(frase.ContarEspacios());
