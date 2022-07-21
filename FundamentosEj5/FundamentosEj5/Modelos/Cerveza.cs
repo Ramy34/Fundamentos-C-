@@ -10,7 +10,7 @@
         {
             Nombre = nombre;
             Tipo = tipo;
-            GradosAlcohol = gradosAlcohol;
+            GradosAlcohol = Math.Round(gradosAlcohol,2);
         }
 
         public Cerveza()
